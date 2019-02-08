@@ -25,6 +25,8 @@ test:
   imports:
     - omero
     - omero.gateway
+  commands:
+    - omero version
 
 about:
   home: https://www.openmicroscopy.org/
